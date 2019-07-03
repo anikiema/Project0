@@ -1,0 +1,155 @@
+Checking Account
+Account Holder: Barack Obama
+Account Number: 963248895
+Checking Account
+Account Holder: Barack Obama
+Account Number: 479789753
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 8368
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 7394
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 7457
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2873
+Transaction: +$100 at 7/2/2019 8:43:29 AM Current Balance: $2100
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 1931
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 326
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2667
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4517
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 9583
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2203
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 6223
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4956
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 5765
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 8836
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 6883
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 8739
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 1993
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 9315
+Transaction: +$400 at 7/2/2019 12:54:32 PM Current Balance: $2400
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 5831
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 677
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 1373
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 1457
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 5506
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4656
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4781
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2581
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2559
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 9674
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 6148
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 7860
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4704
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2709
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 4241
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 2389
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 130062809
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 1051234953
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Transaction: -$34 at 7/3/2019 8:40:14 AM Current Balance: $-34
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Transaction: -$123 at 7/3/2019 10:21:39 AM Current Balance: $-123
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0
+Transaction: +$4000 at 7/3/2019 12:02:39 PM Current Balance: $4000
+Checking Account
+Account Holder: Armel Nikiema
+Account Number: 0

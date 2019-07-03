@@ -1,0 +1,10 @@
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\bin\Debug\Account.dll
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\bin\Debug\Account.pdb
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\boyar\source\repos\BankApplication1\FrontEnd\obj\Debug\FrontEnd.pdb

@@ -1,0 +1,7 @@
+Loan Account
+Account Holder: Barack Obama
+Account Number: 963248895
+Transaction: +$33 at 7/2/2019 2:10:39 PM Current Balance: $33
+Transaction: -$34 at 7/3/2019 10:22:02 AM Current Balance: $-34
+Transaction: -$100 at 7/3/2019 10:28:37 AM Current Balance: $-100
+Transaction: -$2000 at 7/3/2019 12:04:34 PM Current Balance: $-2000

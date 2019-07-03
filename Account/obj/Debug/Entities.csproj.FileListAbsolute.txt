@@ -1,0 +1,6 @@
+C:\Users\boyar\source\repos\BankApplication1\Account\bin\Debug\Account.dll
+C:\Users\boyar\source\repos\BankApplication1\Account\bin\Debug\Account.pdb
+C:\Users\boyar\source\repos\BankApplication1\Account\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\boyar\source\repos\BankApplication1\Account\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\boyar\source\repos\BankApplication1\Account\obj\Debug\Account.dll
+C:\Users\boyar\source\repos\BankApplication1\Account\obj\Debug\Account.pdb
